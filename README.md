@@ -171,6 +171,11 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="IOD"/> 
 
 ### 2D目标检测(2D Object Detection)
+[3] Point-to-Box Network for Accurate Object Detection via Single Point Supervision
+[paper](https://arxiv.org/abs/2207.06827) | [code](https://github.com/ucas-vg/p2bnet)
+
+[2] You Should Look at All Objects
+[paper](https://arxiv.org/abs/2207.07889) | [code](https://github.com/charlespikachu/yslao)
 
 [1] Adversarially-Aware Robust Object Detector<br>
 [paper](https://arxiv.org/abs/2207.06202) | [code](https://github.com/7eu7d7/robustdet)<br><br>
@@ -182,7 +187,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="3DOD"/> 
 
 ### 3D目标检测(3D Object Detection)<br><br>
-
+[1] Rethinking IoU-based Optimization for Single-stage 3D Object Detection
+[paper](https://arxiv.org/abs/2207.09332)
 
 
 <br>
@@ -217,7 +223,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ADI"/> 
 
 ### 图像异常检测/表面缺陷检测(Anomally Detection in Image)<br><br>
-
+[1] DICE: Leveraging Sparsification for Out-of-Distribution Detection
+[paper](https://arxiv.org/abs/2111.09805) | [code](https://github.com/deeplearning-wisc/dice)
 
 <a name="EdgeDetection"/> 
 
@@ -240,6 +247,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 实例分割(Instance Segmentation)<br><br>
 
+[2] Box-supervised Instance Segmentation with Level Set Evolution
+[paper](https://arxiv.org/abs/2207.09055)
+
 [1] OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers<br>
 [paper](https://arxiv.org/abs/2207.02255)  | [code](https://github.com/pjlallen/osformer)<br><br>
 
@@ -258,6 +268,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 视频目标分割(Video Object Segmentation)
 
+[1] Learning Quality-aware Dynamic Memory for Video Object Segmentation
+[paper](https://arxiv.org/abs/2207.07922) | [code](https://github.com/workforai/qdmn)<br><br>
 
 <a name="RIS"/> 
 
@@ -284,9 +296,17 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 [1] Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks<br>
 [paper](https://arxiv.org/abs/2203.03844)  | [code](https://github.com/zysxmu/ddtb)<br><br>
 
+<a name="ImageDenoising"/> 
+
+### [图像去噪(Image Denoising)](#ImageDenoising)
+[1] Deep Semantic Statistics Matching (D2SM) Denoising Network
+[paper](https://arxiv.org/abs/2207.09302)
+
 <a name="ImageRestoration"/> 
 
 ### [图像复原/图像增强/图像重建(Image Restoration/Image Reconstruction)](#ImageRestoration)
+[6] Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization
+[paper](https://arxiv.org/abs/2112.01335) <br><br>
 
 [5] Geometry-aware Single-image Full-body Human Relighting<br>
 [paper](https://arxiv.org/abs/2207.04750) <br><br>
@@ -325,6 +345,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
  
 
 ## 视频处理(Video Processing)
+[2] Improving the Perceptual Quality of 2D Animation Interpolation
+[paper](https://arxiv.org/abs/2111.12792) | [code](https://github.com/shuhongchen/eisai-anime-interpolator)<br><br>
 
 [1] Real-Time Intermediate Flow Estimation for Video Frame Interpolation<br>
 [paper](https://arxiv.org/abs/2011.06294)  | [code](https://github.com/MegEngine/arXiv2020-RIFE)<br><br>
@@ -344,6 +366,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ActionRecognition"/> 
 
 ### 行为识别/行为识别/动作识别/检测/分割(Action/Activity Recognition)
+[2] ReAct: Temporal Action Detection with Relational Queries
+[paper](https://arxiv.org/abs/2207.07097) | [code](https://github.com/sssste/react)
 
 [1] Hunting Group Clues with Transformers for Social Group Activity Recognition<br>
 [paper](https://arxiv.org/abs/2207.05254) <br><br>
@@ -360,12 +384,23 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 视频理解(Video Understanding)
 
-[1] GraphVid: It Only Takes a Few Nodes to Understand a Video<br>
+[2] GraphVid: It Only Takes a Few Nodes to Understand a Video<br>
 [paper](https://arxiv.org/abs/2207.01375) <br><br>
 
   
-[2] Deep Hash Distillation for Image Retrieval<br>
+[1] Deep Hash Distillation for Image Retrieval<br>
 [paper](https://arxiv.org/abs/2112.08816) | [code](https://github.com/youngkyunjang/deep-hash-distillation)<br><br>
+
+<a name="VideoRetrieval"/> 
+
+### 视频检索(Video Retrieval)
+
+[2] TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval
+[paper](https://arxiv.org/abs/2207.07852) | [code](https://github.com/yuqi657/ts2_net)<br><br>
+
+[1] Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval<br>
+[paper](https://arxiv.org/abs/2112.01832)<br><br>
+
 
 <br>
 
@@ -386,7 +421,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ObjectTracking"/> 
 
 ## 9. 目标跟踪(Object Tracking)
-
+[1] Towards Grand Unification of Object Tracking
+[paper](https://arxiv.org/abs/2207.07078) | [code](https://github.com/masterbin-iiau/unicorn)<br><br>
 
 <br>
 
@@ -400,7 +436,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="TDR"/> 
 
 ## 11. 文本检测/识别/理解(Text Detection/Recognition/Understanding)
-
+[1] Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting
+[paper](https://arxiv.org/abs/2207.06694) | [code](https://github.com/hikopensource/davar-lab-ocr)<br><br>
 
 <br>
 
@@ -414,9 +451,17 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="GAN"/> 
 
 ## 13. GAN/生成式/对抗式(GAN/Generative/Adversarial)
+[4] Eliminating Gradient Conflict in Reference-based Line-Art Colorization
+[paper](https://arxiv.org/abs/2207.06095) | [code](https://github.com/kunkun0w0/sga)<br><br>
+
+[3] WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation
+[paper](https://arxiv.org/abs/2207.07288) | [code](https://github.com/kobeshegu/eccv2022_wavegan) <br><br>
+
+[2] FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs
+[paper](https://arxiv.org/abs/2207.08630) | [code](https://github.com/iceli1007/fakeclr) <br><br>
 
 [1] UniCR: Universally Approximated Certified Robustness via Randomized Smoothing<br>
-[paper](https://arxiv.org/abs/2207.02152)<br><br>
+[paper](https://arxiv.org/abs/2207.02152) <br><br>
 
 
 <br>
@@ -490,10 +535,12 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 神经网络架构搜索(NAS)
 
+[3] ScaleNet: Searching for the Model to Scale
+[paper](https://arxiv.org/abs/2207.07267) | [code](https://github.com/luminolx/scalenet)
+
 [2] Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning<br>
 [paper](https://arxiv.org/abs/2203.02651)  | [code](https://github.com/sseung0703/ekg)<br><br>
 
-  
 [1] EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs<br>
 [paper](https://arxiv.org/abs/2111.15097)  | [code](https://github.com/marsggbo/EAGAN)<br><br>
 
@@ -654,6 +701,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ## 31. 半监督学习/弱监督学习/无监督学习/自监督学习(Self-supervised Learning/Semi-supervised Learning)
 
+[5] FedX: Unsupervised Federated Learning with Cross Knowledge Distillation
+[paper](https://arxiv.org/abs/2207.09158)
+
 [4] Synergistic Self-supervised and Quantization Learning<br>
 [paper](https://arxiv.org/abs/2207.05432)  | [code](https://github.com/megvii-research/ssql-eccv2022)<br><br>
 
@@ -686,7 +736,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 视觉-语言（Vision-language）<br>
 
-
+[1] Contrastive Vision-Language Pre-training with Limited Resources
+[paper](https://arxiv.org/abs/2112.09331) | [code](https://github.com/zerovl/zerovl)
 
 <a name="CML"/> 
 
