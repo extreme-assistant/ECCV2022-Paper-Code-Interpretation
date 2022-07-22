@@ -48,7 +48,6 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 * [密集预测(Dense Prediction)](#DensePrediction)
 
 ### [3. 图像处理(Image Processing)](#ImageProcessing)
-
 * [超分辨率(Super Resolution)](#SuperResolution)
 * [图像复原/图像增强/图像重建(Image Restoration/Image Reconstruction)](#ImageRestoration)
 * [图像去阴影/去反射(Image Shadow Removal/Image Reflection Removal)](#ISR)
@@ -167,8 +166,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### [40. 元学习(Meta Learning)](#MetaLearning)
 
-### [41. 联邦学习(Federated Learning](#federatedlearning)
+### [41. 联邦学习(Federated Learning)](#FederatedLearning)
 
+### [42. 模仿学习(Imitation Learning)](#ImitationLearning)
 
 <br><br>
 
@@ -309,6 +309,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="SuperResolution"/> 
 
 ### 超分辨率(Super Resolution)
+[2] Efficient Meta-Tuning for Content-aware Neural Video Delivery<br>
+[paper](https://arxiv.org/abs/2207.09691) | [code](https://github.com/neural-video-delivery/emt-pytorch-eccv2022)<br><br>
+
 [1] Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks<br>
 [paper](https://arxiv.org/abs/2203.03844) | [code](https://github.com/zysxmu/ddtb)<br><br>
 
@@ -367,6 +370,11 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VideoProcessing"/> 
 
 ## 视频处理(Video Processing)
+
+
+<br>
+<a name="VideoEditing"/> 
+### 视频编辑(Video Editing)
 [2] Improving the Perceptual Quality of 2D Animation Interpolation<br>
 [paper](https://arxiv.org/abs/2111.12792) | [code](https://github.com/shuhongchen/eisai-anime-interpolator)<br><br>
 
@@ -410,17 +418,18 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VideoUnderstanding"/> 
 
 ### 视频理解(Video Understanding)
-[2] GraphVid: It Only Takes a Few Nodes to Understand a Video<br>
+[1] GraphVid: It Only Takes a Few Nodes to Understand a Video<br>
 [paper](https://arxiv.org/abs/2207.01375) <br><br>
 
-[1] Deep Hash Distillation for Image Retrieval<br>
-[paper](https://arxiv.org/abs/2112.08816) | [code](https://github.com/youngkyunjang/deep-hash-distillation)<br><br>
 
 
 <br>
 <a name="VideoRetrieval"/> 
 
-### 视频检索(Video Retrieval)
+### 视频检索(Image/Video Retrieval)
+[3] Deep Hash Distillation for Image Retrieval<br>
+[paper](https://arxiv.org/abs/2112.08816) | [code](https://github.com/youngkyunjang/deep-hash-distillation)<br><br>
+
 [2] TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval<br>
 [paper](https://arxiv.org/abs/2207.07852) | [code](https://github.com/yuqi657/ts2_net)<br><br>
 
@@ -679,6 +688,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VisualRL"/>
 
 ## 23. 视觉表征学习(Visual Representation Learning)
+[1] Object-Compositional Neural Implicit Surfaces<br>
+[paper](https://arxiv.org/abs/2207.09686) | [code](https://github.com/qianyiwu/objsdf)<br><br>
 
 
 <br><br>
@@ -904,14 +915,17 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 
 <br>
-<a name="federatedlearning"/> 
+<a name="FederatedLearning"/> 
 
-## 41.联邦学习(Federated Learning)
-
-
+## 41. 联邦学习(Federated Learning)
 
 
+<br>
+<a name="ImitationLearning"/> 
 
+## 42. 模仿学习(Imitation Learning)
+[1] Resolving Copycat Problems in Visual Imitation Learning via Residual Action Prediction<br>
+[paper](https://arxiv.org/abs/2207.09705)<br><br>
 
 
 
