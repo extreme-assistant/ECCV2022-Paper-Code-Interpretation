@@ -188,16 +188,13 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="IOD"/> 
 
 ### 2D目标检测(2D Object Detection)
-[4] PromptDet: Towards Open-vocabulary Detection using Uncurated Images<br>
-[paper](https://arxiv.org/abs/2203.16513) |[code](https://github.com/fcjian/PromptDet)<br><br>
-
-[3] Point-to-Box Network for Accurate Object Detection via Single Point Supervision<br>
+[3] Point-to-Box Network for Accurate Object Detection via Single Point Supervision (通过单点监督实现精确目标检测的点对盒网络)<br>
 [paper](https://arxiv.org/abs/2207.06827) | [code](https://github.com/ucas-vg/p2bnet)<br><br>
 
-[2] You Should Look at All Objects<br>
+[2] You Should Look at All Objects (您应该查看所有物体)<br>
 [paper](https://arxiv.org/abs/2207.07889) | [code](https://github.com/charlespikachu/yslao)<br><br>
 
-[1] Adversarially-Aware Robust Object Detector (**Oral**))<br>
+[1] Adversarially-Aware Robust Object Detector (对抗性感知鲁棒目标检测器)(**Oral**))<br>
 [paper](https://arxiv.org/abs/2207.06202) | [code](https://github.com/7eu7d7/robustdet)<br><br>
 
 
@@ -205,10 +202,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="3DOD"/> 
 
 ### 3D目标检测(3D Object Detection)
-[2] Densely Constrained Depth Estimator for Monocular 3D Object Detection<br>
+[2] Densely Constrained Depth Estimator for Monocular 3D Object Detection (用于单目 3D 目标检测的密集约束深度估计器)<br>
 [paper](https://arxiv.org/abs/2207.10047) | [code](https://github.com/bravegroup/dcd)<br><br>
 
-[1] Rethinking IoU-based Optimization for Single-stage 3D Object Detection<br>
+[1] Rethinking IoU-based Optimization for Single-stage 3D Object Detection (重新思考基于 IoU 的单阶段 3D 对象检测优化)<br>
 [paper](https://arxiv.org/abs/2207.09332)<br><br>
 
 
@@ -222,7 +219,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="HOI"/> 
 
 ### 人物交互检测(HOI Detection)
-[1] Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection<br>
+[1] Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection (面向基于 DETR 的人机交互检测的硬性查询挖掘)<br>
 [paper](https://arxiv.org/abs/2207.05293) | [code](https://github.com/muchhair/hqm)<br><br>
 
 
@@ -242,7 +239,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ADI"/> 
 
 ### 图像异常检测/表面缺陷检测(Anomally Detection in Image)
-[1] DICE: Leveraging Sparsification for Out-of-Distribution Detection<br>
+[1] DICE: Leveraging Sparsification for Out-of-Distribution Detection ((DICE：利用稀疏化进行分布外检测))<br>
 [paper](https://arxiv.org/abs/2111.09805) | [code](https://github.com/deeplearning-wisc/dice)<br><br>
 
 
@@ -272,10 +269,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="InstanceSegmentation"/> 
 
 ### 实例分割(Instance Segmentation)
-[2] Box-supervised Instance Segmentation with Level Set Evolution<br>
+[2] Box-supervised Instance Segmentation with Level Set Evolution (具有水平集进化的框监督实例分割)<br>
 [paper](https://arxiv.org/abs/2207.09055)<br><br>
 
-[1] OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers<br>
+[1] OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers (OSFormer：使用 Transformers 进行单阶段伪装实例分割)<br>
 [paper](https://arxiv.org/abs/2207.02255) | [code](https://github.com/pjlallen/osformer)<br><br>
 
 
@@ -283,7 +280,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="SemanticSegmentation"/> 
 
 ### 语义分割(Semantic Segmentation)
-[1] 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds<br>
+[1] 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds (2DPASS：激光雷达点云上的二维先验辅助语义分割)<br>
 [paper](https://arxiv.org/abs/2207.04397) | [code](https://github.com/yanx27/2dpass)<br><br>
  
 
@@ -291,7 +288,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VOS"/> 
 
 ### 视频目标分割(Video Object Segmentation)
-[1] Learning Quality-aware Dynamic Memory for Video Object Segmentation<br>
+[1] Learning Quality-aware Dynamic Memory for Video Object Segmentation (视频对象分割的学习质量感知动态内存)<br>
 [paper](https://arxiv.org/abs/2207.07922) | [code](https://github.com/workforai/qdmn)<br><br>
 
 
@@ -320,10 +317,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="SuperResolution"/> 
 
 ### 超分辨率(Super Resolution)
-[2] Efficient Meta-Tuning for Content-aware Neural Video Delivery<br>
+[2] Efficient Meta-Tuning for Content-aware Neural Video Delivery (内容感知神经视频交付的高效元调整)<br>
 [paper](https://arxiv.org/abs/2207.09691) | [code](https://github.com/neural-video-delivery/emt-pytorch-eccv2022)<br><br>
 
-[1] Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks<br>
+[1] Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks (超低精度超分辨率网络的动态双可训练边界)<br>
 [paper](https://arxiv.org/abs/2203.03844) | [code](https://github.com/zysxmu/ddtb)<br><br>
 
 
@@ -334,10 +331,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 [3] Perceiving and Modeling Density is All You Need for Image Dehazing (感知和建模密度是图像去雾所需的全部) (**Oral**)<br>
 [paper](https://arxiv.org/abs/2111.09733) |[code](https://github.com/Owen718/Perceiving-and-Modeling-Density-is-All-You-Need-for-Image-Dehazing)<br><br>
 
-[2] Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance<br>
+[2] Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance (来自模糊的动画：具有运动引导的多模态模糊分解)<br>
 [paper](https://arxiv.org/abs/2207.10123) | [code](https://github.com/zzh-tech/Animation-from-Blur)<br><br>
 
-[1] Deep Semantic Statistics Matching (D2SM) Denoising Network<br>
+[1] Deep Semantic Statistics Matching (D2SM) Denoising Network (深度语义统计匹配（D2SM）去噪网络)<br>
 [paper](https://arxiv.org/abs/2207.09302)<br><br>
 
 
@@ -348,25 +345,25 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 [8] Bringing Rolling Shutter Images Alive with Dual Reversed Distortion(通过双重反转失真使滚动快门图像重现) (**Oral**)<br>
 [paper](https://arxiv.org/abs/2203.06451) | [code](https://github.com/zzh-tech/dual-reversed-rs)<br><br>
 
-[7] Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression<br>
+[7] Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression (无监督夜间图像增强：当层分解遇到光效抑制时)<br>
 [paper](https://arxiv.org/abs/2207.10564) | [code](https://github.com/jinyeying/night-enhancement)<br><br>
 
-[6] Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization<br>
+[6] Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization (用于基于深度示例的着色的语义稀疏着色网络)<br>
 [paper](https://arxiv.org/abs/2112.01335) <br><br>
 
-[5] Geometry-aware Single-image Full-body Human Relighting<br>
+[5] Geometry-aware Single-image Full-body Human Relighting (几何感知单图像全身人体重新照明)<br>
 [paper](https://arxiv.org/abs/2207.04750) <br><br>
   
-[4] Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion<br>
+[4] Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion (单目全景深度补全的多模态蒙面预训练)<br>
 [paper](https://arxiv.org/abs/2203.09855) <br><br>
   
-[3] PanoFormer: Panorama Transformer for Indoor 360 Depth Estimation<br>
+[3] PanoFormer: Panorama Transformer for Indoor 360 Depth Estimation (PanoFormer：用于室内 360 深度估计的全景变压器)<br>
 [paper](https://arxiv.org/abs/2203.09283) <br><br>
   
-[2] SESS: Saliency Enhancing with Scaling and Sliding<br>
+[2] SESS: Saliency Enhancing with Scaling and Sliding (SESS：通过缩放和滑动增强显着性)<br>
 [paper](https://arxiv.org/abs/2207.01769) <br><br>
 
-[1] RigNet: Repetitive Image Guided Network for Depth Completion<br>
+[1] RigNet: Repetitive Image Guided Network for Depth Completion (RigNet：用于深度补全的重复图像引导网络)<br>
 [paper](https://arxiv.org/abs/2107.13802) <br><br>
 
 
@@ -374,7 +371,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ImageOutpainting"/>   
 
 ### 图像外推(Image Outpainting)
-[1] Outpainting by Queries<br>
+[1] Outpainting by Queries (通过查询进行外推)<br>
 [paper](https://arxiv.org/abs/2207.05312) | [code](https://github.com/kaiseem/queryotr)<br><br>
 
 
@@ -382,7 +379,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="StyleTransfer"/> 
 
 ### 风格迁移(Style Transfer)
-[1] CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer (**Oral**)<br>
+[1] CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer (CCPL：通用风格迁移的对比相干性保留损失) (**Oral**)<br>
 [paper](https://arxiv.org/abs/2207.04808) | [code](https://github.com/JarrentWu1031/CCPL)<br><br>
 
  
@@ -399,17 +396,17 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VideoEditing"/> 
 
 ### 视频编辑(Video Editing)
-[2] Improving the Perceptual Quality of 2D Animation Interpolation<br>
+[2] Improving the Perceptual Quality of 2D Animation Interpolation (提高二维动画插值的感知质量)<br>
 [paper](https://arxiv.org/abs/2111.12792) | [code](https://github.com/shuhongchen/eisai-anime-interpolator)<br><br>
 
-[1] Real-Time Intermediate Flow Estimation for Video Frame Interpolation<br>
+[1] Real-Time Intermediate Flow Estimation for Video Frame Interpolation(视频帧插值的实时中间流估计)<br> 
 [paper](https://arxiv.org/abs/2011.06294)  | [code](https://github.com/MegEngine/arXiv2020-RIFE)<br><br>
 
 <br>
 <a name="VideoInpainting"/> 
 
 ### 视频修复(Video Inpainting)
-[1] Error Compensation Framework for Flow-Guided Video Inpainting<br>
+[1] Error Compensation Framework for Flow-Guided Video Inpainting (流引导视频修复的误差补偿框架)<br>
 [paper](https://arxiv.org/abs/2207.10391)<br><br>
 
 <br><br>
@@ -425,16 +422,16 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ActionRecognition"/> 
 
 ### 行为识别/行为识别/动作识别/检测/分割(Action/Activity Recognition)
-[4] GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality<br>
+[4] GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality (GaitEdge：超越普通的端到端步态识别，提高实用性)<br>
 [paper](https://arxiv.org/abs/2203.03972) | [code](https://github.com/shiqiyu/opengait)<br><br>
 
-[3] Collaborating Domain-shared and Target-specific Feature Clustering for Cross-domain 3D Action Recognition<br>
+[3] Collaborating Domain-shared and Target-specific Feature Clustering for Cross-domain 3D Action Recognition (用于跨域 3D 动作识别的协作域共享和特定于目标的特征聚类)<br>
 [paper](https://arxiv.org/abs/2207.09767) | [code](https://github.com/canbaoburen/CoDT)<br><br>
 
-[2] ReAct: Temporal Action Detection with Relational Queries<br>
+[2] ReAct: Temporal Action Detection with Relational Queries (ReAct：使用关系查询的时间动作检测)<br>
 [paper](https://arxiv.org/abs/2207.07097) | [code](https://github.com/sssste/react)<br><br>
 
-[1] Hunting Group Clues with Transformers for Social Group Activity Recognition<br>
+[1] Hunting Group Clues with Transformers for Social Group Activity Recognition (用Transformers寻找群体线索用于社会群体活动识别)<br>
 [paper](https://arxiv.org/abs/2207.05254) <br><br>
   
   
@@ -442,7 +439,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="Re-Identification"/> 
 
 ### 行人重识别/检测(Re-Identification/Detection)
-[1] PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification<br>
+[1] PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification(PASS：用于人员重新识别的部分感知自我监督预训练)<br>
 [paper](https://arxiv.org/abs/2203.03931) | [code](https://github.com/casia-iva-lab/pass-reid)<br><br>
 
 <br>
@@ -455,7 +452,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VideoUnderstanding"/> 
 
 ### 视频理解(Video Understanding)
-[1] GraphVid: It Only Takes a Few Nodes to Understand a Video (**Oral**)<br>
+[1] GraphVid: It Only Takes a Few Nodes to Understand a Video (GraphVid：只需几个节点即可理解视频) (**Oral**)<br>
 [paper](https://arxiv.org/abs/2207.01375) <br><br>
 
 
@@ -463,19 +460,19 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VideoRetrieval"/> 
 
 ### 图像/视频检索(Image/Video Retrieval)
-[5] Feature Representation Learning for Unsupervised Cross-domain Image Retrieval
-[paper](https://arxiv.org/abs/2207.09721) | [code](https://github.com/conghuihu/ucdir)
+[5] Feature Representation Learning for Unsupervised Cross-domain Image Retrieval (无监督跨域图像检索的特征表示学习)<br>
+[paper](https://arxiv.org/abs/2207.09721) | [code](https://github.com/conghuihu/ucdir)<br><br>
 
-[4] LocVTP: Video-Text Pre-training for Temporal Localization<br>
+[4] LocVTP: Video-Text Pre-training for Temporal Localization (LocVTP：时间定位的视频文本预训练)<br>
 [paper](https://arxiv.org/abs/2207.10362) | [code](https://github.com/mengcaopku/locvtp)<br><br>
 
-[3] Deep Hash Distillation for Image Retrieval<br>
+[3] Deep Hash Distillation for Image Retrieval (用于图像检索的深度哈希蒸馏)<br>
 [paper](https://arxiv.org/abs/2112.08816) | [code](https://github.com/youngkyunjang/deep-hash-distillation)<br><br>
 
-[2] TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval<br>
+[2] TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval (TS2-Net：用于文本视频检索的令牌移位和选择转换器)<br>
 [paper](https://arxiv.org/abs/2207.07852) | [code](https://github.com/yuqi657/ts2_net)<br><br>
 
-[1] Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval<br>
+[1] Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval (轻量级注意力特征融合：文本到视频检索的新基线)<br>
 [paper](https://arxiv.org/abs/2112.01832)<br><br>
 
 
@@ -491,10 +488,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VisualLocalization"/> 
 
 ### 视觉定位/位姿估计(Visual Localization/Pose Estimation)
-[2] Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration<br>
+[2] Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration (基于隐式空间校准的 Transformer 的弱监督目标定位)<br>
 [paper] (https://arxiv.org/abs/2207.10447) | [code](https://github.com/164140757/scm)<br><br>
 
-[1] Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks<br>
+[1] Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks (使用自监督深度先验变形网络的类别级 6D 对象姿势和大小估计)<br>
 [paper](https://arxiv.org/abs/2207.05444)  | [code](https://github.com/jiehonglin/self-dpdn)<br><br>
 
 
@@ -502,7 +499,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="DepthEstimation"/> 
 
 ### 深度估计(Depth Estimation)
-[1] Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches<br>
+[1] Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches ((使用最优对抗补丁对单目深度估计进行物理攻击))<br>
 [paper](https://arxiv.org/abs/2207.04718) <br><br>
 
 
@@ -528,7 +525,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="3DReconstruction"/> 
 
 ### 三维重建(3D Reconstruction)
-[1] DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras<br>
+[1] DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras (DiffuStereo：使用稀疏相机通过基于扩散的立体进行高质量人体重建)<br>
 [paper](https://arxiv.org/abs/2207.08000)<br><br>
 
 
@@ -536,7 +533,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="NeRF"/> 
 
 ### 场景重建/视图合成/新视角合成(Novel View Synthesis)
-[1] Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields<br>
+[1] Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields (Sem2NeRF：将单视图语义掩码转换为神经辐射场)<br>
 [paper](https://arxiv.org/abs/2203.10821) | [code](https://github.com/donydchen/sem2nerf)<br><br>
 
 
@@ -547,7 +544,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ObjectTracking"/> 
 
 ## 9. 目标跟踪(Object Tracking)
-[1] Towards Grand Unification of Object Tracking (**Oral**)<br>
+[1] Towards Grand Unification of Object Tracking (迈向目标跟踪的大统一) (**Oral**)<br>
 [paper](https://arxiv.org/abs/2207.07078) | [code](https://github.com/masterbin-iiau/unicorn)<br><br>
 
 
@@ -567,10 +564,13 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="TDR"/> 
 
 ## 11. 文本检测/识别/理解(Text Detection/Recognition/Understanding)
-[2] End-to-End Video Text Spotting with Transformer (**Oral**)<br>
+[3] PromptDet: Towards Open-vocabulary Detection using Uncurated Images (PromptDet：使用未经处理的图像进行开放词汇检测)<br>
+[paper](https://arxiv.org/abs/2203.16513) |[code](https://github.com/fcjian/PromptDet)<br><br>
+
+[2] End-to-End Video Text Spotting with Transformer (使用 Transformer 的端到端视频文本定位) (**Oral**)<br>
 [paper](https://arxiv.org/abs/2203.10539) | [code](https://github.com/weijiawu/transdetr)<br><br>
 
-[1] Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting<br>
+[1] Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting (用于经济高效的端到端文本定位的动态低分辨率蒸馏)<br>
 [paper](https://arxiv.org/abs/2207.06694) | [code](https://github.com/hikopensource/davar-lab-ocr)<br><br>
 
 
@@ -590,22 +590,22 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="GAN"/> 
 
 ## 13. GAN/生成式/对抗式(GAN/Generative/Adversarial)
-[6] Adaptive Image Transformations for Transfer-based Adversarial Attack<br>
+[6] Adaptive Image Transformations for Transfer-based Adversarial Attack (基于传输的对抗性攻击的自适应图像转换)<br>
 [paper](https://arxiv.org/abs/2111.13844)<br><br>
 
-[5] Generative Multiplane Images: Making a 2D GAN 3D-Aware<br>
+[5] Generative Multiplane Images: Making a 2D GAN 3D-Aware (生成多平面图像：让一个2D GAN变得3D感知)<br>
 [paper](https://arxiv.org/abs/2207.10642) | [code](https://github.com/apple/ml-gmpi)<br><br>
 
-[4] Eliminating Gradient Conflict in Reference-based Line-Art Colorization<br>
+[4] Eliminating Gradient Conflict in Reference-based Line-Art Colorization (消除基于参考的艺术线条着色中的梯度冲突)<br>
 [paper](https://arxiv.org/abs/2207.06095) | [code](https://github.com/kunkun0w0/sga)<br><br>
 
-[3] WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation<br>
+[3] WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation (WaveGAN：用于高保真少镜头图像生成的频率感知 GAN)<br>
 [paper](https://arxiv.org/abs/2207.07288) | [code](https://github.com/kobeshegu/eccv2022_wavegan) <br><br>
 
-[2] FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs<br>
+[2] FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs (FakeCLR：探索对比学习以解决数据高效 GAN 中的潜在不连续性)<br>
 [paper](https://arxiv.org/abs/2207.08630) | [code](https://github.com/iceli1007/fakeclr) <br><br>
 
-[1] UniCR: Universally Approximated Certified Robustness via Randomized Smoothing<br>
+[1] UniCR: Universally Approximated Certified Robustness via Randomized Smoothing (UniCR：通过随机平滑获得普遍近似的认证鲁棒性)<br>
 [paper](https://arxiv.org/abs/2207.02152) <br><br>
 
 
@@ -643,7 +643,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="Vision-basedPrediction"/> 
 
 ## 17. 视觉预测(Vision-based Prediction)
-[1] D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights<br>
+[1] D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights (D2-TPred：交通灯下轨迹预测的不连续依赖)<br>
 [paper](https://arxiv.org/abs/2207.10398) | [code](https://github.com/vtp-tl/d2-tpred)<br><br>
 
 <br><br>
@@ -665,10 +665,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="Transformer"/> 
 
 ### Transformer
-[2] ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer<br>
+[2] ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer (ScalableViT：重新思考 Vision Transformer 面向上下文的泛化)<br>
 [paper](https://arxiv.org/abs/2203.10790) | [code](https://github.com/yangr116/scalablevit)<br><br>
 
-[1] Visual Prompt Tuning<br>
+[1] Visual Prompt Tuning (视觉提示调整)<br>
 [paper](https://arxiv.org/abs/2203.12119) | [code](https://github.com/KMnP/vpt)<br><br>
 
 
@@ -682,13 +682,13 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="NAS"/> 
 
 ### 神经网络架构搜索(NAS)
-[3] ScaleNet: Searching for the Model to Scale<br>
+[3] ScaleNet: Searching for the Model to Scale (ScaleNet：搜索要扩展的模型)<br>
 [paper](https://arxiv.org/abs/2207.07267) | [code](https://github.com/luminolx/scalenet)<br><br>
 
-[2] Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning<br>
+[2] Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning (集成知识引导的子网络搜索和过滤器修剪微调)<br>
 [paper](https://arxiv.org/abs/2203.02651)  | [code](https://github.com/sseung0703/ekg)<br><br>
 
-[1] EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs<br>
+[1] EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs (EAGAN：GAN 的高效两阶段进化架构搜索)<br>
 [paper](https://arxiv.org/abs/2111.15097)  | [code](https://github.com/marsggbo/EAGAN)<br><br>
 
 
@@ -732,7 +732,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="BatchNormalization"/> 
 
 ### 归一化/正则化(Batch Normalization)
-[1] Fine-grained Data Distribution Alignment for Post-Training Quantization (**Oral**)<br>
+[1] Fine-grained Data Distribution Alignment for Post-Training Quantization (训练后量化的细粒度数据分布对齐) (**Oral**)<br>
 [paper](https://arxiv.org/abs/2109.04186) | [code](https://github.com/zysxmu/fdda)<br><br>
 
 
@@ -755,7 +755,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="matching"/> 
 
 ## 22. 图像特征提取与匹配(Image feature extraction and matching)
-[1] Unsupervised Deep Multi-Shape Matching<br>
+[1] Unsupervised Deep Multi-Shape Matching (无监督深度多形状匹配)<br>
 [paper](https://arxiv.org/abs/2207.09610)<br><br>
 
 
@@ -767,7 +767,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VisualRL"/>
 
 ## 23. 视觉表征学习(Visual Representation Learning)
-[1] Object-Compositional Neural Implicit Surfaces<br>
+[1] Object-Compositional Neural Implicit Surfaces (对象组合神经隐式曲面)<br>
 [paper](https://arxiv.org/abs/2207.09686) | [code](https://github.com/qianyiwu/objsdf)<br><br>
 
 
@@ -786,7 +786,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="NoisyLabel"/> 
 
 ### 噪声标签(Noisy Label)
-[1] Learning with Noisy Labels by Efficient Transition Matrix Estimation to Combat Label Miscorrection<br>
+[1] Learning with Noisy Labels by Efficient Transition Matrix Estimation to Combat Label Miscorrection (通过有效的转移矩阵估计学习噪声标签以对抗标签错误校正)<br>
 [paper](https://arxiv.org/abs/2111.14932) <br><br>
   
 
@@ -809,7 +809,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="KnowledgeDistillation"/> 
 
 ### 知识蒸馏(Knowledge Distillation)
-[1] Knowledge Condensation Distillation<br>
+[1] Knowledge Condensation Distillation (知识浓缩蒸馏)<br>
 [paper](https://arxiv.org/abs/2207.05409) | [code](https://github.com/dzy3/kcd)<br><br>
  
  
@@ -832,7 +832,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ## 26. 模型评估(Model Evaluation)
 
-[1] Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting<br>
+[1] Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting (多模式车辆轨迹预测的分层潜在结构)<br>
 [paper](https://arxiv.org/abs/2207.04624) | [code](https://github.com/d1024choi/hlstrajforecast)<br><br>
 
 
@@ -871,22 +871,22 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="self-supervisedlearning"/> 
 
 ## 30. 半监督学习/弱监督学习/无监督学习/自监督学习(Self-supervised Learning/Semi-supervised Learning)
-[6] CA-SSL: Class-Agnostic Semi-Supervised Learning for Detection and Segmentation<br>
+[6] CA-SSL: Class-Agnostic Semi-Supervised Learning for Detection and Segmentation (CA-SSL：用于检测和分割的与类别无关的半监督学习)<br>
 [paper](https://arxiv.org/abs/2112.04966) | [code](https://github.com/dvlab-research/Entity)<br><br>
 
-[5] FedX: Unsupervised Federated Learning with Cross Knowledge Distillation<br>
+[5] FedX: Unsupervised Federated Learning with Cross Knowledge Distillation (FedX：具有交叉知识蒸馏的无监督联合学习)<br>
 [paper](https://arxiv.org/abs/2207.09158)<br><br>
 
-[4] Synergistic Self-supervised and Quantization Learning<br>
+[4] Synergistic Self-supervised and Quantization Learning (协同自监督和量化学习)<br>
 [paper](https://arxiv.org/abs/2207.05432) | [code](https://github.com/megvii-research/ssql-eccv2022)<br><br>
 
-[3] Contrastive Deep Supervision<br>
+[3] Contrastive Deep Supervision (对比深度监督)<br>
 [paper](https://arxiv.org/abs/2207.05306) | [code](https://github.com/archiplab-linfengzhang/contrastive-deep-supervision)<br><br>
 
-[2] Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection<br>
+[2] Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection (稠密教师：用于半监督目标检测的稠密伪标签)<br>
 [paper](https://arxiv.org/abs/2207.02541)<br><br>
 
-[1] Image Coding for Machines with Omnipotent Feature Learning<br>
+[1] Image Coding for Machines with Omnipotent Feature Learning (具有全能特征学习的机器的图像编码)<br>
 [paper](https://arxiv.org/abs/2207.01932) <br><br>
 
 
@@ -911,7 +911,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VLRL"/> 
 
 ### 视觉-语言（Vision-language）
-[1] Contrastive Vision-Language Pre-training with Limited Resources<br>
+[1] Contrastive Vision-Language Pre-training with Limited Resources (资源有限的对比视觉语言预训练)<br>
 [paper](https://arxiv.org/abs/2112.09331) | [code](https://github.com/zerovl/zerovl)<br><br>
 
 
@@ -919,8 +919,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="CML"/> 
 
 ### 跨模态（cross-modal)
-[1] Cross-modal Prototype Driven Network for Radiology Report Generation<br>
-[paper](https://arxiv.org/abs/)  | [code](https://github.com/markin-wang/xpronet)<br><br>
+[1] Cross-modal Prototype Driven Network for Radiology Report Generation (用于放射学报告生成的跨模式原型驱动网络)<br>
+[paper](https://arxiv.org/abs/) | [code](https://github.com/markin-wang/xpronet)<br><br>
 
 
 <br><br>
@@ -936,7 +936,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="Few-shotLearning"/> 
 
 ## 33. 小样本学习/零样本学习(Few-shot/Zero-shot Learning)
-[1] Learning Instance and Task-Aware Dynamic Kernels for Few Shot Learning<br>
+[1] Learning Instance and Task-Aware Dynamic Kernels for Few Shot Learning (用于少数镜头学习的学习实例和任务感知动态内核)<br>
 [paper](https://arxiv.org/abs/2112.03494) <br><br>
 
 
@@ -953,11 +953,11 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="domain"/> 
 
 ## 35. 迁移学习/domain/自适应(Transfer Learning/Domain Adaptation)
-[2] Factorizing Knowledge in Neural Networks<br>
+[2] Factorizing Knowledge in Neural Networks (在神经网络中分解知识)<br>
 [paper](https://arxiv.org/abs/2207.03337)  | [code](https://github.com/adamdad/knowledgefactor)<br><br>
 
 
-[1] CycDA: Unsupervised Cycle Domain Adaptation from Image to Video<br>
+[1] CycDA: Unsupervised Cycle Domain Adaptation from Image to Video (CycDA：从图像到视频的无监督循环域自适应)<br>
 [paper](https://arxiv.org/abs/2203.16244) <br><br>
 
 
@@ -986,7 +986,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="RL"/> 
 
 ## 39. 强化学习(Reinforcement Learning)
-[1] Target-absent Human Attention<br>
+[1] Target-absent Human Attention (目标缺失——人类注意力缺失)<br>
 [paper](https://arxiv.org/abs/2207.01166) | [code](https://github.com/neouyghur/sess)<br><br>
 
 
@@ -1006,7 +1006,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ImitationLearning"/> 
 
 ## 42. 模仿学习(Imitation Learning)
-[1] Resolving Copycat Problems in Visual Imitation Learning via Residual Action Prediction<br>
+[1] Resolving Copycat Problems in Visual Imitation Learning via Residual Action Prediction (通过残差动作预测解决视觉模仿学习中的模仿问题)<br>
 [paper](https://arxiv.org/abs/2207.09705)<br><br>
 
 
