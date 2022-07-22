@@ -12,6 +12,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 1.[ECCV2022 接受论文/代码分方向整理(持续更新)](#eccv)
 ### 2.[ECCV2022 oral](#oral)
+### 3.[ECCV2022 论文解读汇总](#3)
+
 
 >update: <br>
 >2022/7/20 [更新 54 篇](https://www.cvmart.net/community/detail/6592)
@@ -51,7 +53,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 * [超分辨率(Super Resolution)](#SuperResolution)
 * [图像复原/图像增强/图像重建(Image Restoration/Image Reconstruction)](#ImageRestoration)
 * [图像去阴影/去反射(Image Shadow Removal/Image Reflection Removal)](#ISR)
-* [图像去噪/去模糊/去雨去雾(Image Denoising/Image Deblurring)](#ImageDenoising)
+* [图像去噪/去模糊/去雨去雾(Image Denoising/Deblurring/Dehazing)](#ImageDenoising)
 * [图像编辑/图像修复(Image Edit/Image Inpainting)](#ImageEdit)
 * [图像翻译(Image Translation)](#ImageTranslation)
 * [图像质量评估(Image Quality Assessment)](#IQA)
@@ -186,13 +188,16 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="IOD"/> 
 
 ### 2D目标检测(2D Object Detection)
+[4] PromptDet: Towards Open-vocabulary Detection using Uncurated Images<br>
+[paper](https://arxiv.org/abs/2203.16513) |[code](https://github.com/fcjian/PromptDet)<br><br>
+
 [3] Point-to-Box Network for Accurate Object Detection via Single Point Supervision<br>
 [paper](https://arxiv.org/abs/2207.06827) | [code](https://github.com/ucas-vg/p2bnet)<br><br>
 
 [2] You Should Look at All Objects<br>
 [paper](https://arxiv.org/abs/2207.07889) | [code](https://github.com/charlespikachu/yslao)<br><br>
 
-[1] Adversarially-Aware Robust Object Detector<br>
+[1] Adversarially-Aware Robust Object Detector (**Oral**))<br>
 [paper](https://arxiv.org/abs/2207.06202) | [code](https://github.com/7eu7d7/robustdet)<br><br>
 
 
@@ -325,7 +330,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <br>
 <a name="ImageDenoising"/> 
 
-### 图像去噪(Image Denoising/Image Deblurring)
+### 图像去噪(Image Denoising/Deblurring/Dehazing)
+[3] Perceiving and Modeling Density is All You Need for Image Dehazing (感知和建模密度是图像去雾所需的全部) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2111.09733) |[code](https://github.com/Owen718/Perceiving-and-Modeling-Density-is-All-You-Need-for-Image-Dehazing)<br><br>
+
 [2] Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance<br>
 [paper](https://arxiv.org/abs/2207.10123) | [code](https://github.com/zzh-tech/Animation-from-Blur)<br><br>
 
@@ -337,6 +345,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ImageRestoration"/> 
 
 ### 图像复原/图像增强/图像重建(Image Restoration/Image Reconstruction)
+[8] Bringing Rolling Shutter Images Alive with Dual Reversed Distortion(通过双重反转失真使滚动快门图像重现) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.06451) | [code](https://github.com/zzh-tech/dual-reversed-rs)<br><br>
+
 [7] Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression<br>
 [paper](https://arxiv.org/abs/2207.10564) | [code](https://github.com/jinyeying/night-enhancement)<br><br>
 
@@ -371,7 +382,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="StyleTransfer"/> 
 
 ### 风格迁移(Style Transfer)
-[1] CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer<br>
+[1] CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer (**Oral**)<br>
 [paper](https://arxiv.org/abs/2207.04808) | [code](https://github.com/JarrentWu1031/CCPL)<br><br>
 
  
@@ -444,7 +455,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VideoUnderstanding"/> 
 
 ### 视频理解(Video Understanding)
-[1] GraphVid: It Only Takes a Few Nodes to Understand a Video<br>
+[1] GraphVid: It Only Takes a Few Nodes to Understand a Video (**Oral**)<br>
 [paper](https://arxiv.org/abs/2207.01375) <br><br>
 
 
@@ -536,7 +547,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ObjectTracking"/> 
 
 ## 9. 目标跟踪(Object Tracking)
-[1] Towards Grand Unification of Object Tracking<br>
+[1] Towards Grand Unification of Object Tracking (**Oral**)<br>
 [paper](https://arxiv.org/abs/2207.07078) | [code](https://github.com/masterbin-iiau/unicorn)<br><br>
 
 
@@ -556,6 +567,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="TDR"/> 
 
 ## 11. 文本检测/识别/理解(Text Detection/Recognition/Understanding)
+[2] End-to-End Video Text Spotting with Transformer (**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.10539) | [code](https://github.com/weijiawu/transdetr)<br><br>
+
 [1] Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting<br>
 [paper](https://arxiv.org/abs/2207.06694) | [code](https://github.com/hikopensource/davar-lab-ocr)<br><br>
 
@@ -576,6 +590,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="GAN"/> 
 
 ## 13. GAN/生成式/对抗式(GAN/Generative/Adversarial)
+[6] Adaptive Image Transformations for Transfer-based Adversarial Attack<br>
+[paper](https://arxiv.org/abs/2111.13844)<br><br>
+
 [5] Generative Multiplane Images: Making a 2D GAN 3D-Aware<br>
 [paper](https://arxiv.org/abs/2207.10642) | [code](https://github.com/apple/ml-gmpi)<br><br>
 
@@ -715,7 +732,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="BatchNormalization"/> 
 
 ### 归一化/正则化(Batch Normalization)
-[1] Fine-grained Data Distribution Alignment for Post-Training Quantization<br>
+[1] Fine-grained Data Distribution Alignment for Post-Training Quantization (**Oral**)<br>
 [paper](https://arxiv.org/abs/2109.04186) | [code](https://github.com/zysxmu/fdda)<br><br>
 
 
@@ -854,6 +871,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="self-supervisedlearning"/> 
 
 ## 30. 半监督学习/弱监督学习/无监督学习/自监督学习(Self-supervised Learning/Semi-supervised Learning)
+[6] CA-SSL: Class-Agnostic Semi-Supervised Learning for Detection and Segmentation<br>
+[paper](https://arxiv.org/abs/2112.04966) | [code](https://github.com/dvlab-research/Entity)<br><br>
+
 [5] FedX: Unsupervised Federated Learning with Cross Knowledge Distillation<br>
 [paper](https://arxiv.org/abs/2207.09158)<br><br>
 
@@ -996,3 +1016,36 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="oral"/> 
 
 ### ECCV2022 oral 
+
+[8] Perceiving and Modeling Density is All You Need for Image Dehazing (感知和建模密度是图像去雾所需的全部) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2111.09733) |[code](https://github.com/Owen718/Perceiving-and-Modeling-Density-is-All-You-Need-for-Image-Dehazing)<br><br>
+
+[7] Bringing Rolling Shutter Images Alive with Dual Reversed Distortion(通过双重反转失真使滚动快门图像重现) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.06451) | [code](https://github.com/zzh-tech/dual-reversed-rs)<br><br>
+
+[6] End-to-End Video Text Spotting with Transformer(使用 Transformer 的端到端视频文本定位) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2203.10539) | [code](https://github.com/weijiawu/transdetr)<br><br>
+
+[5] GraphVid: It Only Takes a Few Nodes to Understand a Video(GraphVid：只需几个节点即可理解视频) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2207.01375) <br><br>
+
+[4] CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer(CCPL：用于通用风格迁移的对比相干性保留损失) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2207.04808) | [code](https://github.com/JarrentWu1031/CCPL)<br><br>
+
+[3] Fine-grained Data Distribution Alignment for Post-Training Quantization(训练后量化的细粒度数据分布对齐) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2109.04186) | [code](https://github.com/zysxmu/fdda)<br><br>
+
+[2] Adversarially-Aware Robust Object Detector(对抗性感知鲁棒目标检测器) (**Oral**))<br>
+[paper](https://arxiv.org/abs/2207.06202) | [code](https://github.com/7eu7d7/robustdet)<br><br>
+
+[1] Towards Grand Unification of Object Tracking(迈向目标跟踪的大统一) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2207.07078) | [code](https://github.com/masterbin-iiau/unicorn)<br><br>
+
+<br>
+
+<a name="3"/> 
+
+# 3. ECCV2022 论文解读汇总
+
+【1】[ECCV 2022 Oral | Unicorn：迈向目标跟踪的大统一](https://www.cvmart.net/community/detail/6586)
+
