@@ -51,7 +51,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 * [超分辨率(Super Resolution)](#SuperResolution)
 * [图像复原/图像增强/图像重建(Image Restoration/Image Reconstruction)](#ImageRestoration)
 * [图像去阴影/去反射(Image Shadow Removal/Image Reflection Removal)](#ISR)
-* [图像去噪/去模糊/去雨去雾(Image Denoising)](#ImageDenoising)
+* [图像去噪/去模糊/去雨去雾(Image Denoising/Image Deblurring)](#ImageDenoising)
 * [图像编辑/图像修复(Image Edit/Image Inpainting)](#ImageEdit)
 * [图像翻译(Image Translation)](#ImageTranslation)
 * [图像质量评估(Image Quality Assessment)](#IQA)
@@ -59,6 +59,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### [4. 视频处理(Video Processing)](#VideoProcessing)
 * [视频编辑(Video Editing)](#VideoEditing)
+* [视频修复(Video Inpainting)](#VideoInpainting)
 * [视频生成/视频合成(Video Generation/Video Synthesis)](#VideoGeneration)
 * [视频超分(Video Super-Resolution)](#VideoSR)
 
@@ -66,6 +67,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 * [行为识别/行为识别/动作识别/检测/分割(Action/Activity Recognition)](#ActionRecognition)
 * [行人重识别/检测(Re-Identification/Detection)](#Re-Identification)
 * [图像/视频字幕(Image/Video Caption)](#VideoCaption)
+* [视频理解(Video Understanding)](#VideoUnderstanding)
+* [图像/视频检索(Image/Video Retrieval)](#VideoRetrieval)
 
 ### [6. 估计(Estimation)](#Estimation)
 * [光流/运动估计(Flow/Motion Estimation)](#Flow/Pose/MotionEstimation)
@@ -197,6 +200,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="3DOD"/> 
 
 ### 3D目标检测(3D Object Detection)
+[2] Densely Constrained Depth Estimator for Monocular 3D Object Detection<br>
+[paper](https://arxiv.org/abs/2207.10047) | [code](https://github.com/bravegroup/dcd)<br><br>
+
 [1] Rethinking IoU-based Optimization for Single-stage 3D Object Detection<br>
 [paper](https://arxiv.org/abs/2207.09332)<br><br>
 
@@ -319,7 +325,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <br>
 <a name="ImageDenoising"/> 
 
-### 图像去噪(Image Denoising)
+### 图像去噪(Image Denoising/Image Deblurring)
+[2] Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance<br>
+[paper](https://arxiv.org/abs/2207.10123) | [code](https://github.com/zzh-tech/Animation-from-Blur)<br><br>
+
 [1] Deep Semantic Statistics Matching (D2SM) Denoising Network<br>
 [paper](https://arxiv.org/abs/2207.09302)<br><br>
 
@@ -328,6 +337,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ImageRestoration"/> 
 
 ### 图像复原/图像增强/图像重建(Image Restoration/Image Reconstruction)
+[7] Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression<br>
+[paper](https://arxiv.org/abs/2207.10564) | [code](https://github.com/jinyeying/night-enhancement)<br><br>
+
 [6] Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization<br>
 [paper](https://arxiv.org/abs/2112.01335) <br><br>
 
@@ -374,6 +386,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 <br>
 <a name="VideoEditing"/> 
+
 ### 视频编辑(Video Editing)
 [2] Improving the Perceptual Quality of 2D Animation Interpolation<br>
 [paper](https://arxiv.org/abs/2111.12792) | [code](https://github.com/shuhongchen/eisai-anime-interpolator)<br><br>
@@ -381,6 +394,12 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 [1] Real-Time Intermediate Flow Estimation for Video Frame Interpolation<br>
 [paper](https://arxiv.org/abs/2011.06294)  | [code](https://github.com/MegEngine/arXiv2020-RIFE)<br><br>
 
+<br>
+<a name="VideoInpainting"/> 
+
+### 视频修复(Video Inpainting)
+[1] Error Compensation Framework for Flow-Guided Video Inpainting<br>
+[paper](https://arxiv.org/abs/2207.10391)<br><br>
 
 <br><br>
 
@@ -395,6 +414,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ActionRecognition"/> 
 
 ### 行为识别/行为识别/动作识别/检测/分割(Action/Activity Recognition)
+[3] Collaborating Domain-shared and Target-specific Feature Clustering for Cross-domain 3D Action Recognition<br>
+[paper](https://arxiv.org/abs/2207.09767) | [code](https://github.com/canbaoburen/CoDT)<br><br>
+
 [2] ReAct: Temporal Action Detection with Relational Queries<br>
 [paper](https://arxiv.org/abs/2207.07097) | [code](https://github.com/sssste/react)<br><br>
 
@@ -422,11 +444,16 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 [paper](https://arxiv.org/abs/2207.01375) <br><br>
 
 
-
 <br>
 <a name="VideoRetrieval"/> 
 
-### 视频检索(Image/Video Retrieval)
+### 图像/视频检索(Image/Video Retrieval)
+[5] Feature Representation Learning for Unsupervised Cross-domain Image Retrieval
+[paper](https://arxiv.org/abs/2207.09721) | [code](https://github.com/conghuihu/ucdir)
+
+[4] LocVTP: Video-Text Pre-training for Temporal Localization<br>
+[paper](https://arxiv.org/abs/2207.10362) | [code](https://github.com/mengcaopku/locvtp)<br><br>
+
 [3] Deep Hash Distillation for Image Retrieval<br>
 [paper](https://arxiv.org/abs/2112.08816) | [code](https://github.com/youngkyunjang/deep-hash-distillation)<br><br>
 
@@ -449,6 +476,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="VisualLocalization"/> 
 
 ### 视觉定位/位姿估计(Visual Localization/Pose Estimation)
+[2] Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration<br>
+[paper] (https://arxiv.org/abs/2207.10447) | [code](https://github.com/164140757/scm)<br><br>
+
 [1] Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks<br>
 [paper](https://arxiv.org/abs/2207.05444)  | [code](https://github.com/jiehonglin/self-dpdn)<br><br>
 
@@ -526,6 +556,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="GAN"/> 
 
 ## 13. GAN/生成式/对抗式(GAN/Generative/Adversarial)
+[5] Generative Multiplane Images: Making a 2D GAN 3D-Aware<br>
+[paper](https://arxiv.org/abs/2207.10642) | [code](https://github.com/apple/ml-gmpi)<br><br>
+
 [4] Eliminating Gradient Conflict in Reference-based Line-Art Colorization<br>
 [paper](https://arxiv.org/abs/2207.06095) | [code](https://github.com/kunkun0w0/sga)<br><br>
 
@@ -573,7 +606,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="Vision-basedPrediction"/> 
 
 ## 17. 视觉预测(Vision-based Prediction)
-
+[1] D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights
+[paper](https://arxiv.org/abs/2207.10398) | [code](https://github.com/vtp-tl/d2-tpred)
 
 <br><br>
 
