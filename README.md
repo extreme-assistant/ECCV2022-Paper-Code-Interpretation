@@ -414,6 +414,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="ActionRecognition"/> 
 
 ### 行为识别/行为识别/动作识别/检测/分割(Action/Activity Recognition)
+[4] GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality<br>
+[paper](https://arxiv.org/abs/2203.03972) | [code](https://github.com/shiqiyu/opengait)<br><br>
+
 [3] Collaborating Domain-shared and Target-specific Feature Clustering for Cross-domain 3D Action Recognition<br>
 [paper](https://arxiv.org/abs/2207.09767) | [code](https://github.com/canbaoburen/CoDT)<br><br>
 
@@ -428,7 +431,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="Re-Identification"/> 
 
 ### 行人重识别/检测(Re-Identification/Detection)
-
+[1] PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification<br>
+[paper](https://arxiv.org/abs/2203.03931) | [code](https://github.com/casia-iva-lab/pass-reid)<br><br>
 
 <br>
 <a name="VideoCaption"/> 
@@ -507,6 +511,22 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="3DVision"/> 
 
 ## 8. 三维视觉(3D Vision)
+
+
+<br>
+<a name="3DReconstruction"/> 
+
+### 三维重建(3D Reconstruction)
+[1] DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras<br>
+[paper](https://arxiv.org/abs/2207.08000)<br><br>
+
+
+<br>
+<a name="NeRF"/> 
+
+### 场景重建/视图合成/新视角合成(Novel View Synthesis)
+[1] Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields<br>
+[paper](https://arxiv.org/abs/2203.10821) | [code](https://github.com/donydchen/sem2nerf)<br><br>
 
 
 <br><br>
@@ -606,8 +626,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="Vision-basedPrediction"/> 
 
 ## 17. 视觉预测(Vision-based Prediction)
-[1] D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights
-[paper](https://arxiv.org/abs/2207.10398) | [code](https://github.com/vtp-tl/d2-tpred)
+[1] D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights<br>
+[paper](https://arxiv.org/abs/2207.10398) | [code](https://github.com/vtp-tl/d2-tpred)<br><br>
 
 <br><br>
 
@@ -628,6 +648,11 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="Transformer"/> 
 
 ### Transformer
+[2] ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer<br>
+[paper](https://arxiv.org/abs/2203.10790) | [code](https://github.com/yangr116/scalablevit)<br><br>
+
+[1] Visual Prompt Tuning<br>
+[paper](https://arxiv.org/abs/2203.12119) | [code](https://github.com/KMnP/vpt)<br><br>
 
 
 <br>
@@ -713,6 +738,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="matching"/> 
 
 ## 22. 图像特征提取与匹配(Image feature extraction and matching)
+[1] Unsupervised Deep Multi-Shape Matching<br>
+[paper](https://arxiv.org/abs/2207.09610)<br><br>
+
 
 
 <br><br>
