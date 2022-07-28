@@ -269,6 +269,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="InstanceSegmentation"/> 
 
 ### 实例分割(Instance Segmentation)
+[3] In Defense of Online Models for Video Instance Segmentation (为视频实例分割的在线模型辩护) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2207.10661)|[code](https://github.com/wjf5203/vnext)<br><br>
+
 [2] Box-supervised Instance Segmentation with Level Set Evolution (具有水平集进化的框监督实例分割)<br>
 [paper](https://arxiv.org/abs/2207.09055)<br><br>
 
@@ -1016,6 +1019,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="oral"/> 
 
 ### ECCV2022 oral 
+
+[9] In Defense of Online Models for Video Instance Segmentation (为视频实例分割的在线模型辩护) (**Oral**)<br>
+[paper](https://arxiv.org/abs/2207.10661)|[code](https://github.com/wjf5203/vnext)<br><br>
 
 [8] Perceiving and Modeling Density is All You Need for Image Dehazing (感知和建模密度是图像去雾所需的全部) (**Oral**)<br>
 [paper](https://arxiv.org/abs/2111.09733) |[code](https://github.com/Owen718/Perceiving-and-Modeling-Density-is-All-You-Need-for-Image-Dehazing)<br><br>
