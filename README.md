@@ -26,9 +26,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 <a name="eccv"/>
 
-### 1. ECCV2022 接受论文/代码分方向整理(持续更新)
+# ECCV2022 接受论文/代码分方向整理(持续更新)
 
-# 目录
+## 目录
 
 ### [1. 检测](#detection)
 
@@ -1261,7 +1261,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 <a name="3"/> 
 
-# 3. ECCV2022 论文解读汇总
+# ECCV2022 论文解读汇总
 
 【1】文字解读：[ECCV 2022 Oral | Unicorn：迈向目标跟踪的大统一](https://www.cvmart.net/community/detail/6586)<br>
      直播解读：[极市直播丨严彬-Unicorn：走向目标跟踪的大一统（ECCV2022 Oral）](https://www.cvmart.net/community/detail/6608)<br>
@@ -1283,3 +1283,11 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 【9】[ECCV 2022 | SmoothNet：用神经网络代替平滑滤波器，不用重新训练才配叫“即插即用”](https://www.cvmart.net/community/detail/6604)<br>
 
 【10】[ECCV2022 Oral | 无需前置条件的自动着色算法](https://www.cvmart.net/community/detail/6579)<br>
+
+【11】[ECCV2022｜何恺明团队开源ViTDet：只用普通ViT，不做分层设计也能搞定目标检测](https://www.cvmart.net/community/detail/6577)
+
+【12】[ECCV 2022 | Masked Generative Distillation: 适用于分类，检测，分割的生成式知识蒸馏](https://www.cvmart.net/community/detail/6569)
+
+【13】[ECCV 2022 | 多域长尾分布学习，不平衡域泛化问题研究](https://www.cvmart.net/community/detail/6566)
+
+【14】[ECCV2022 | DisCo: 提升轻量化模型在自监督学习中的效果](https://www.cvmart.net/community/detail/6559)
