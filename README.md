@@ -19,7 +19,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 
 >update: <br>
->2022/7/29 [更新 54 篇](https://www.cvmart.net/community/detail/6620)
+>2022/7/29 [更新 54 篇](https://www.cvmart.net/community/detail/6620)<br>
 >2022/7/20 [更新 54 篇](https://www.cvmart.net/community/detail/6592)
 
 <br><br>
@@ -202,7 +202,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <br>
 <a name="detection"/> 
 
-## 检测
+## 1. 检测
 
 
 <br>
@@ -288,7 +288,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <br>
 <a name="Segmentation"/> 
 
-## 分割(Segmentation)<br><br>
+## 2. 分割(Segmentation)<br><br>
 
 
 <br>
@@ -348,7 +348,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <br>
 <a name="ImageProcessing"/> 
 
-## 图像处理(Image Processing)
+## 3. 图像处理(Image Processing)
 
 
 <br>
@@ -447,7 +447,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <br>
 <a name="VideoProcessing"/> 
 
-## 视频处理(Video Processing)
+## 4. 视频处理(Video Processing)
 
 
 <br>
@@ -488,7 +488,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <br>
 <a name="ImageRetrieval"/> 
 
-## 图像&视频检索/视频理解(Image&Video Retrieval/Video Understanding)
+## 5. 图像&视频检索/视频理解(Image&Video Retrieval/Video Understanding)
 
 
 <br>
@@ -559,7 +559,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <br>
 <a name="Estimation"/> 
 
-## 估计(Estimation)
+## 6. 估计(Estimation)
 
 <br>
 <a name="VisualLocalization"/> 
