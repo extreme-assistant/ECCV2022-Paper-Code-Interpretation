@@ -19,6 +19,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 
 >update: <br>
+>2022/7/29 [更新 54 篇](https://www.cvmart.net/community/detail/6620)
 >2022/7/20 [更新 54 篇](https://www.cvmart.net/community/detail/6592)
 
 <br><br>
@@ -1538,7 +1539,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <br>
 <a name="oral"/> 
 
-### ECCV2022 oral 
+# ECCV2022 oral 
 
 [9] In Defense of Online Models for Video Instance Segmentation (为视频实例分割的在线模型辩护) (**Oral**)<br>
 [paper](https://arxiv.org/abs/2207.10661)|[code](https://github.com/wjf5203/vnext)<br><br>
@@ -1573,5 +1574,23 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 # 3. ECCV2022 论文解读汇总
 
-【1】[ECCV 2022 Oral | Unicorn：迈向目标跟踪的大统一](https://www.cvmart.net/community/detail/6586)
+【1】文字解读：[ECCV 2022 Oral | Unicorn：迈向目标跟踪的大统一](https://www.cvmart.net/community/detail/6586)<br>
+     直播解读：[极市直播丨严彬-Unicorn：走向目标跟踪的大一统（ECCV2022 Oral）](https://www.cvmart.net/community/detail/6608)<br>
+     
+【2】[ECCV 2022 Oral | 无需微调即可泛化！RegAD：少样本异常检测新框架](https://www.cvmart.net/community/detail/6627)<br>
 
+【3】[ECCV 2022 | Poseur：你以为我是姿态估计，其实是目标检测](https://www.cvmart.net/community/detail/6629)<br>
+
+【4】[ECCV 2022 | 清华&腾讯AI Lab提出REALY: 重新思考3D人脸重建的评估方法](https://www.cvmart.net/community/detail/6630)<br>
+
+【5】[ECCV 2022 | AirDet: 无需微调的小样本目标检测方法](https://www.cvmart.net/community/detail/6624)<br>
+
+【6】[ECCV2022 | 重新思考单阶段3D目标检测中的IoU优化](https://www.cvmart.net/community/detail/6621)<br>
+
+【7】[ECCV 2022 | 通往数据高效的Transformer目标检测器](https://www.cvmart.net/community/detail/6615)<br>
+
+【8】[ECCV2022 | FPN错位对齐，实现高效半监督目标检测 (PseCo)](https://www.cvmart.net/community/detail/6610)<br>
+
+【9】[ECCV 2022 | SmoothNet：用神经网络代替平滑滤波器，不用重新训练才配叫“即插即用”](https://www.cvmart.net/community/detail/6604)<br>
+
+【10】[ECCV2022 Oral | 无需前置条件的自动着色算法](https://www.cvmart.net/community/detail/6579)<br>
