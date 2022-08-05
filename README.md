@@ -1291,3 +1291,6 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 【13】[ECCV 2022 | 多域长尾分布学习，不平衡域泛化问题研究](https://www.cvmart.net/community/detail/6566)
 
 【14】[ECCV2022 | DisCo: 提升轻量化模型在自监督学习中的效果](https://www.cvmart.net/community/detail/6559)
+
+【15】[性能远超ConvNeXt？浅析谷歌提出的「三合一」transformer模型MaxViT+伪代码分析](https://zhuanlan.zhihu.com/p/515055794)<br>
+      直播解读(附PPT下载)：[极市直播回放第99期丨ECCV2022-涂正中：让谷歌的骨干网络MaxViT治好你的科研内耗](https://www.cvmart.net/community/detail/6646)<br>
