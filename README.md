@@ -19,6 +19,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 
 >update: <br>
+>
+>2022/8/4 更新11篇<br>
+>
 >2022/7/29 [更新 54 篇](https://www.cvmart.net/community/detail/6620)<br>
 >2022/7/20 [更新 54 篇](https://www.cvmart.net/community/detail/6592)
 
@@ -259,6 +262,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 显著性目标检测(Saliency Object Detection)<br><br>
 
+[1] KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation (KD-SCFNet：通过知识蒸馏实现更准确、更高效的显着目标检测)<br>
+
+[paper](https://arxiv.org/abs/2208.02178) | [code](https://github.com/zhangjincv/kd-scfnet)<br><br>
 
 <br>
 <a name="COD"/> 
@@ -271,9 +277,12 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 图像异常检测/表面缺陷检测(Anomally Detection in Image)
 
-[1] DICE: Leveraging Sparsification for Out-of-Distribution Detection ((DICE：利用稀疏化进行分布外检测))<br>
-[paper](https://arxiv.org/abs/2111.09805) | [code](https://github.com/deeplearning-wisc/dice)<br><br>
+[2] DSR -- A dual subspace re-projection network for surface anomaly detection (DSR——用于表面异常检测的双子空间重投影网络)<br>
 
+[paper](https://arxiv.org/abs/2208.01521) | [code](https://github.com/vitjanz/dsr_anomaly_detection)<br><br>
+
+[1] DICE: Leveraging Sparsification for Out-of-Distribution Detection (DICE：利用稀疏化进行分布外检测)<br>
+[paper](https://arxiv.org/abs/2111.09805) | [code](https://github.com/deeplearning-wisc/dice)<br><br>
 
 <br>
 <a name="EdgeDetection"/> 
@@ -455,6 +464,12 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 视频编辑(Video Editing)
 
+[3] AlphaVC: High-Performance and Efficient Learned Video Compression (AlphaVC：高性能和高效的学习视频压缩)<br>
+
+[paper](https://arxiv.org/abs/2207.14678)<br>
+
+<br>
+
 [2] Improving the Perceptual Quality of 2D Animation Interpolation (提高二维动画插值的感知质量)<br>
 [paper](https://arxiv.org/abs/2111.12792) | [code](https://github.com/shuhongchen/eisai-anime-interpolator)<br><br>
 
@@ -537,6 +552,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 图像/视频检索(Image/Video Retrieval)
 
+[6] Can Shuffling Video Benefit Temporal Bias Problem: A Novel Training Framework for Temporal Grounding (打乱的视频是否有益于时间偏差问题：一种新的时间接地训练框架)<br>
+
+[paper](https://arxiv.org/abs/2207.14698) |[code](https://github.com/haojc/shufflingvideosfortsg)<br><br>
+
 [5] Feature Representation Learning for Unsupervised Cross-domain Image Retrieval (无监督跨域图像检索的特征表示学习)<br>
 [paper](https://arxiv.org/abs/2207.09721) | [code](https://github.com/conghuihu/ucdir)<br><br>
 
@@ -552,7 +571,6 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 [1] Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval (轻量级注意力特征融合：文本到视频检索的新基线)<br>
 [paper](https://arxiv.org/abs/2112.01832)<br><br>
 
-
 <br><br>
 
 
@@ -562,9 +580,22 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 ## 6. 估计(Estimation)
 
 <br>
+<a name="Flow/Pose/MotionEstimation"/> 
+
+### 光流/运动估计(Flow/Motion Estimation)
+
+[1] Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion (基于多投影融合的深度360∘光流估计)<br>
+
+[paper](https://arxiv.org/abs/2208.00776)<br><br>
+
+<br>
 <a name="VisualLocalization"/> 
 
 ### 视觉定位/位姿估计(Visual Localization/Pose Estimation)
+
+[4] Overlooked Poses Actually Make Sense: Distilling Privileged Knowledge for Human Motion Prediction (被忽视的姿势实际上是有意义的：为人体运动预测提炼特权知识)<br>
+
+[paper](https://arxiv.org/abs/2208.01302)<br><br>
 
 [3] 3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal (通过手部去遮挡和移除的 3D 交互手部姿势估计)<br>
 
@@ -674,6 +705,10 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="TDR"/> 
 
 ## 11. 文本检测/识别/理解(Text Detection/Recognition/Understanding)
+
+[5] Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition (了解艺术字：用于场景文本识别的角引导转换器) (**Oral**)<br>
+
+[paper](https://arxiv.org/abs/2208.00438) | [code](https://github.com/xdxie/wordart)<br><br>
 
 [4] Contextual Text Block Detection towards Scene Text Understanding (面向场景文本理解的上下文文本块检测)<br>
 
@@ -791,11 +826,20 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### CNN
 
+[1] PalQuant: Accelerating High-precision Networks on Low-precision Accelerators (PalQuant：在低精度加速器上加速高精度网络)<br>
+
+[paper](https://arxiv.org/abs/2208.01944) | [code](https://github.com/huqinghao/palquant) <br>
+
+<br>
 
 <br>
 <a name="Transformer"/> 
 
 ### Transformer
+
+[5] Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding (用于长期 4D 点云视频理解的 Point Primitive Transformer)<br>
+
+[paper](https://arxiv.org/abs/2208.00281)<br><br>
 
 [4] Improving Vision Transformers by Revisiting High-frequency Components (通过重新审视高频组件来改进视觉变压器)<br>
 
@@ -889,6 +933,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ### 图像压缩(Image Compression)
 
+[1] Content-Oriented Learned Image Compression (面向内容的学习图像压缩)<br>
+
+[paper](https://arxiv.org/abs/2207.14168)<br><br>
 
 <br><br>
 
@@ -1005,6 +1052,9 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ## 27. 图像分类(Image Classification)
 
+[1] Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels (中心性和一致性：使用实例相关的噪声标签进行学习的两阶段清洁样本识别)<br>
+
+[paper](https://arxiv.org/abs/2207.14476) | [code](https://github.com/uitrbn/tscsi_idn)<br><br>
 
 <br><br>
 
@@ -1013,7 +1063,6 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="CrowdCounting"/> 
 
 ## 28. 图像计数(Image Counting)
-
 
 <br><br>
 
@@ -1100,7 +1149,6 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 
 <br><br>
-
 
 <br>
 <a name="ActiveLearning"/> 
@@ -1206,6 +1254,12 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 # ECCV2022 Oral
 
+[15] Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition (了解艺术字：用于场景文本识别的角引导转换器) (**Oral**)<br>
+
+[paper](https://arxiv.org/abs/2208.00438) | [code](https://github.com/xdxie/wordart)<br><br>
+
+---
+
 [14] Balancing Stability and Plasticity through Advanced Null Space in Continual Learning (通过持续学习中的高级零空间平衡稳定性和可塑性) (**Oral**)<br>
 
 [paper](https://arxiv.org/abs/2207.12061)<br><br>
@@ -1291,6 +1345,3 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 【13】[ECCV 2022 | 多域长尾分布学习，不平衡域泛化问题研究](https://www.cvmart.net/community/detail/6566)
 
 【14】[ECCV2022 | DisCo: 提升轻量化模型在自监督学习中的效果](https://www.cvmart.net/community/detail/6559)
-
-【15】[性能远超ConvNeXt？浅析谷歌提出的「三合一」transformer模型MaxViT+伪代码分析](https://zhuanlan.zhihu.com/p/515055794)<br>
-      直播解读(附PPT下载)：[极市直播回放第99期丨ECCV2022-涂正中：让谷歌的骨干网络MaxViT治好你的科研内耗](https://www.cvmart.net/community/detail/6646)<br>
