@@ -1345,3 +1345,35 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 【13】[ECCV 2022 | 多域长尾分布学习，不平衡域泛化问题研究](https://www.cvmart.net/community/detail/6566)
 
 【14】[ECCV2022 | DisCo: 提升轻量化模型在自监督学习中的效果](https://www.cvmart.net/community/detail/6559)
+
+【15】[ECCV2022 最新综述 | 面向大规模场景的小目标检测：综述和 benchmark](https://www.cvmart.net/community/detail/6649)
+
+【16】[ECCV2022 | 京东&北航&美团提出时序动作检测新框架 性能SOTA!](https://www.cvmart.net/community/detail/6647)
+
+【17】[ECCV2022 | 你没见过的《老友记》镜头，AI给补出来了](https://www.cvmart.net/community/detail/6644)
+
+【18】[ECCV2022 | 重新思考单阶段3D目标检测中的IoU优化](https://www.cvmart.net/community/detail/6621)
+
+【19】[ECCV2022 | FPN错位对齐，实现高效半监督目标检测 (PseCo)](https://www.cvmart.net/community/detail/6610)
+
+【20】[ECCV2022｜CV核心特征分解用于批处理矩阵 | 中小型矩阵的批量高效(batch-efficient)特征分解](https://www.cvmart.net/community/detail/6582)
+
+【21】[ECCV22 | CMU提出首个快速知识蒸馏的视觉框架：80.1%精度，训练加速30%](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247619165&idx=4&sn=8043f81442ae0e889baddc95ad450ed7&chksm=ec1dffa4db6a76b2094692e5c6aa7bab5920d2ee614631b3cbf081c4f07685e4dbcca3af037e#rd)
+
+【22】[ECCV 22｜首个360°全景定制的单目深度估计Transformer-PanoFormer](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247618555&idx=3&sn=7b075dd655e88b2ffc6c7a53f1741235&chksm=ec1de202db6a6b140f428081b9b2e60f7162c50ef359bd0340a83ceeb4e395c441d29e93073c#rd)
+
+【23】[ECCV22｜单点监督目标检测！国科大提出P2BNet：标一个点就能训练出强有力的目标检测器](https://www.cvmart.net/community/detail/6700)
+
+【24】[ECCV22｜重新思考视觉Transformer面向上下文的泛化！清华&字节提出ScalableViT ](https://www.cvmart.net/community/detail/6690)
+
+【25】[ECCV 2022 Oral｜CCPL: 一种通用的关联性保留损失函数实现通用风格迁移](https://www.cvmart.net/community/detail/6680)
+
+【26】[ECCV 2022 | 仅用全连接层处理视频数据，美图&NUS实现高效视频时空建模](https://www.cvmart.net/community/detail/6667)
+
+【27】[ECCV 2022｜计算机视觉中的长尾分布问题还值得做吗](https://www.cvmart.net/community/detail/6657)
+
+【28】[ECCV 22｜大数据的红利我吃定了！微软开源TinyViT ：搞定小模型的预训练能力](https://www.cvmart.net/community/detail/6654)
+
+【29】[ECCV 2022 Oral | 满分论文！视频实例分割新SOTA：SeqFormer & IDOL](https://www.cvmart.net/community/detail/6645)
+
+【30】[ECCV 2022 Oral｜自反馈学习的mixup训练框架AutoMix](https://www.cvmart.net/community/detail/6650)
